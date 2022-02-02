@@ -3,7 +3,7 @@
 <h2>How to reach me:</h2>
 
 - 📱 [Telegram](https://t.me/sistolika) 
-- 📬 [Email](sistolika@yahoo.com)
+- 📬 Email: sistolika@yahoo.com
 
 <h1>My skills:</h1>
 
